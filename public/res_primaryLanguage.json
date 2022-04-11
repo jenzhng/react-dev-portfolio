@@ -1,0 +1,111 @@
+{
+    "basic_info": {
+      "description_header": "",
+      "description": "I'm a web developer working with React, Ruby, Node.js and Next.js. I enjoy contributing to open-source and coming up with new projects.",
+      "section_name": {
+        "about": "",
+        "projects": "Work",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "T-shirt Printing Company",
+        "startDate": "2020",
+        "description": "Landing page for a t-shirt printing company made with React, Bootstrap, Sass, and Typescript.",
+        "images": [
+          "images/portfolio/landing-page/p1.png",
+          "images/portfolio/landing-page/p2.png"
+        ],
+        "url": "https://jenzhng.github.io/business-demo/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Pollen App",
+        "startDate": "2018",
+        "description": "Project widget for displaying pollen forecast on personal site or blog.",
+        "images": [
+		  "images/portfolio/pollen/p1.jpeg",
+
+          "images/portfolio/pollen/p2.png"
+        ],
+        "url": "https://github.com/jenzhng/pollen-app",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Campsite Checker",
+        "startDate": "2020",
+        "description": "A command-line application written in Ruby. It lets you check  availability for campsites on recreation.gov according to parkID and dates you are staying.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com/jenzhng/campground-checker",
+        "technologies": [
+          {
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }

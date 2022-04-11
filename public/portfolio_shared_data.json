@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "Jenny Zhong",
+      "titles": [ "Front-end Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/jenzhng",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "mail",
+          "url": "mailto:zhongjenn@gmail.com",
+          "class": "fa fa-envelope"
+        }
+      ],
+      "image": "myProfile.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }, 
+		{
+          "name": "Ruby",
+          "class": "devicon-ruby-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
