@@ -37,7 +37,7 @@
       {
         "title": "Pollen App",
         "startDate": "2018",
-        "description": "Project widget for displaying pollen forecast on personal site or blog. Makes calls to and receives data from Tomorrow.io API.",
+        "description": "Project widget for displaying pollen forecast on personal site or blog.",
         "images": [
 		  "images/portfolio/pollen/p1.jpeg",
 
