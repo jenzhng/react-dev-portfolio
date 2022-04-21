@@ -57,6 +57,11 @@
           "name": "Ruby",
           "class": "devicon-ruby-plain",
           "level": "60"
+        }, 
+		{
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "60"
         }
       ]
     }

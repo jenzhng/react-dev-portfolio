@@ -56,6 +56,38 @@
         ]
       },
       {
+        "title": "Drama Review WebAPI",
+        "startDate": "2022",
+        "description": "Angular frontend for a Drama Review API. You can rate dramas, add reviews, and update the drama database.",
+        "images": [
+          "images/portfolio/api/p1.png"
+        ],
+        "url": "https://github.com/jenzhng/drama-review-app",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          }, 
+		  
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }, 
+		  {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          }, 
+		   {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }, 
+		  {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      }, 
+	  {
         "title": "Campsite Checker",
         "startDate": "2020",
         "description": "A command-line application written in Ruby. It lets you check  availability for campsites on recreation.gov according to parkID and dates you are staying.",
