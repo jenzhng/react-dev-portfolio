@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "",
-      "description": "I'm a web developer working with React, Ruby, Node.js and Next.js. I enjoy contributing to open-source and coming up with new projects.",
+      "description": "I'm a Web Developer and UX Designer working with C#, React, Angular, Ruby, Node.js and Next.js. I enjoy contributing to open-source and coming up with new projects.",
       "section_name": {
         "about": "",
         "projects": "Work",
@@ -100,6 +100,29 @@
           {
             "class": "devicon-ruby-plain",
             "name": "Ruby"
+          }
+        ]
+      }, 
+	  {
+        "title": "Farm App",
+        "startDate": "2022",
+        "description": ".NET Core MVC App that lets users sign up and schedule to view farm real estate. It lets admin check appointment times for viewing and add more properties to the database. Each listing shows acreage and postal code. App uses JWT(to auth it's users).",
+        "images": [
+          "images/portfolio/farm/p1.png",
+          "images/portfolio/farm/p2.png", 
+		  "images/portfolio/farm/p3.png", 
+          "images/portfolio/farm/p4.png", 
+          "images/portfolio/farm/p5.png"
+        ],
+        "url": "https://github.com/jenzhng/farm-app",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }, 
+		  {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       }
