@@ -34,6 +34,31 @@
           }
         ]
       },
+	  {
+        "title": "News Article Template",
+        "startDate": "2022",
+        "description": "React app template for a news site. You can configure to read articles from JSON file or Web API to suit your needs. Created to experiment with Framer Motion and UX design for a news site.",
+        "images": [
+          "images/portfolio/article-template/p1.png", "images/portfolio/article-template/p2.png",
+		  "images/portfolio/article-template/p3.png",
+		  "images/portfolio/article-template/p4.png"
+        ],
+        "url": "https://jenzhng.github.io/article-template/",
+        "technologies": [ 
+		  {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }, 
+		  {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          }
+        ]
+      },
       {
         "title": "Pollen App",
         "startDate": "2018",
@@ -55,6 +80,7 @@
           }
         ]
       },
+	  
       {
         "title": "Drama Review WebAPI",
         "startDate": "2022",
