@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Jenny Zhong",
-      "titles": [ "Software Engineer", "UX Designer" ],
+      "titles": [ "Software Engineer" ],
       "social": [
         {
           "name": "github",
@@ -12,6 +12,11 @@
           "name": "mail",
           "url": "mailto:zhongjenn@gmail.com",
           "class": "fa fa-envelope"
+        },
+		{
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/jenny-z-0759289a/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.png"
