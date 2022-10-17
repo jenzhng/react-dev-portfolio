@@ -10,6 +10,25 @@
       }
     },
     "projects": [
+	{
+        "title": "Raspberry Pi FM Radio",
+        "startDate": "2022",
+        "description": "Small project to make a FM radio transmitter with a Raspberry Pi. I experimented to play different files and playlists through this embedded project.",
+        "images": [
+          "images/portfolio/rasp-pi-radio/rasp_pi_fm_radio.png"
+        ],
+        "url": "https://github.com/jenzhng/fm_transmitter",
+        "technologies": [
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          }
+        ]
+      },
       {
         "title": "T-shirt Printing Company",
         "startDate": "2020",
